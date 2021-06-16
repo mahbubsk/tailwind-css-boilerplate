@@ -27,12 +27,11 @@ npm run build
 npm run build:a:tailwind
 ```
 
-## connect with @codewithchu
+## connect with me
 
-- [Website](https://www.arthurchu.ca 'Web Development Tutorials, Tips & Tricks | CodeWithChu Website')
-- [YouTube](https://www.youtube.com/channel/UCSyosm-WcUPT4LnUIIdqSCw 'CodeWithChu Youtube Channel')
+- [Website](https://mahbubsk.me')
 - [Instagram](https://www.instagram.com/codewithchu/ 'Follow CodeWithChu on Instagram')
-- [Twitter](https://twitter.com/codewithchu 'Follow CodeWithChu on Twitter')
-- [Facebook](https://www.facebook.com/codewithchu 'Like CodeWithChu on Facebook')
-- [Codepen](https://codepen.io/codewithchu 'Follow CodeWithChu on Codepen')
+- [Twitter](https://twitter.com/codewithchu)
+- [Facebook](https://www.facebook.com/learner.mahbub)
+- 
 # tailwind-css-boilerplate
