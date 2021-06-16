@@ -29,9 +29,9 @@ npm run build:a:tailwind
 
 ## connect with me
 
-- [Website](https://mahbubsk.me')
-- [Instagram](https://www.instagram.com/codewithchu/ 'Follow CodeWithChu on Instagram')
-- [Twitter](https://twitter.com/codewithchu)
+- [Website](https://mahbubsk.me)
+- [Instagram](https://www.instagram.com/md_mahbub_sk/)
+- [Twitter](https://twitter.com/md_mahbub_sK)
 - [Facebook](https://www.facebook.com/learner.mahbub)
 - 
 # tailwind-css-boilerplate
